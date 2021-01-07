@@ -1,7 +1,7 @@
 #!/bin/bash
 # InfoG v1.0
 # coded by darkheaven (Don't change, read the lincense!)
-# Github: https://github.com/cyberkallan/raavanan.infog
+# Github: https://github.com/White-Heaven/info.2.0.git
 # Instagram:dark_h_e_a_v_e_n
 
 
